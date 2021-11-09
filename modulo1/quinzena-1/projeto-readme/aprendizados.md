@@ -1,0 +1,5 @@
+# Aprendizados da Semana
+
+Na semana 0, de onbording, aprendi a usar as plataformas do curso: Slack e Zoom. O Slack, com cada um dos seus canais, nos auxiliará na comunicação ao longo do curso. Lá é necessário notar que cada canal tem seu papel e é importante respeitá-los. Por exemplo, no canal #gebru_anúncios **apenas pessoas da equipe da Labenu devem postar**. Não seguir esse protocolo pode acarretar em *flood* e eventualmente a perda de informações importantes. Na semana 1, já com aulas mais técnicas, aprendi a usar o terminal, o git e o github. O git é uma ferramenta de controle de versão de projetos e o github é um serviço de armazenamento em nuvem de repositórios. Assim, o git existe na nossa máquina local, e armazenamos nosso projeto remotamente no github. A sequência de comandos que utilizaremos para submeter nossos projetos é a seguinte: git add nome-arquivo, git commit -m "mensagem", git push origin branch-name. A alteração irá aparecer no github e lá devemos fazer a solicitação de inclusão (pull request).
+
+
